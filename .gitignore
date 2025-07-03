@@ -1,0 +1,6 @@
+.env
+.env.secrets
+temp_file.pdf
+/chroma_db/
+/src/ai_pdf_research/__pycache__/
+uploads/my_file.pdf
